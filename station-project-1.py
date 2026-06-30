@@ -76,4 +76,8 @@ for i in template:
         print(random.choice(end))
         break
 
+    else:
+        print("your chosen number is out of range, please run the project again to restart")
+        break
+
 
